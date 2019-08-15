@@ -1,0 +1,23 @@
+INFO    2019-08-15 08:36:56,070 [main] base.BaseTest  - Config file loaded !!!
+INFO    2019-08-15 08:36:57,985 [main] base.BaseTest  - Chrome Launched
+INFO    2019-08-15 08:37:02,301 [main] base.BaseTest  - Navigated to : https://www.ryanair.com/ie/en/
+INFO    2019-08-15 08:37:06,178 [main] base.BaseTest  - Language has been changed
+INFO    2019-08-15 08:37:08,082 [main] base.BaseTest  - I am logged
+INFO    2019-08-15 08:37:17,363 [main] base.BaseTest  - I have choosen passengers
+INFO    2019-08-15 08:37:17,467 [main] base.BaseTest  - I accepted web  terms
+INFO    2019-08-15 08:37:17,566 [main] base.BaseTest  - I tap on Lets Go Btn
+INFO    2019-08-15 08:37:22,330 [main] base.BaseTest  - I tap on first tryp
+INFO    2019-08-15 08:37:23,511 [main] base.BaseTest  - I tap on Plus Option
+INFO    2019-08-15 08:37:24,686 [main] base.BaseTest  - I tap on Continue Btn
+INFO    2019-08-15 08:37:27,633 [main] base.BaseTest  - I tap on Go It Btn
+INFO    2019-08-15 08:37:32,541 [main] base.BaseTest  - I selected seats
+INFO    2019-08-15 08:37:34,609 [main] base.BaseTest  - I tap on Check Out Btn
+INFO    2019-08-15 08:37:39,183 [main] base.BaseTest  - I sent Passenger 1 data
+INFO    2019-08-15 08:37:39,704 [main] base.BaseTest  - I sent Passenger 2 data
+INFO    2019-08-15 08:37:40,107 [main] base.BaseTest  - I sent Passenger 3 data
+INFO    2019-08-15 08:37:40,261 [main] base.BaseTest  - I add insurance
+INFO    2019-08-15 08:37:40,587 [main] base.BaseTest  - I sent telephone
+INFO    2019-08-15 08:37:41,316 [main] base.BaseTest  - I sent card details
+INFO    2019-08-15 08:37:43,033 [main] base.BaseTest  - I sent billing address
+INFO    2019-08-15 08:37:47,245 [main] base.BaseTest  - Card data is right
+INFO    2019-08-15 08:37:47,436 [main] base.BaseTest  - Test Execution Completed !!!

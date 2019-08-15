@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="18.410129">
+<testcase classname="Automate a booking up to a declined payment" name="1.Prueba" time="18.410129">
+<system-out><![CDATA[Given User is in homePage...................................................passed
+And change language	to English..............................................passed
+And i login.................................................................passed
+Given i make a booking from "DUB" to "SXF" on "22/10/2019" for "2" adults and "1" child.passed
+]]></system-out>
+</testcase>
+</testsuite>
